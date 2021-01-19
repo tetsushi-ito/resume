@@ -17,7 +17,8 @@
 
 | 概要 | 利用技術 |
 | - | - |
-| [Ruby on RailsをAWS Fargate上で稼働させつつ、GitHubへの変更を検知して自動的にBlue/Greenデプロイを行うインフラ](architectures/rails_1.md) | Rails / MySQL / Redis / Docker / Route 53 / S3 / CloudWatch / ElastiCache / RDS / SNS / ECR / Fargate / CloudFront / CodePipeline / CodeBuild / CodeDeploy / CloudFormation / Lambda / Systems Manager / ALB / AWS CDK / AWS CLI |
+| [Ruby on RailsをAWS Fargate上で稼働させつつ、GitHubへの変更を検知して自動的にBlue/Greenデプロイを行うインフラの構築](architectures/rails_1.md) | Rails / MySQL / Redis / Docker / Route 53 / S3 / CloudWatch / ElastiCache / RDS / SNS / ECR / Fargate / CloudFront / CodePipeline / CodeBuild / CodeDeploy / CloudFormation / Lambda / Systems Manager / ALB / AWS CDK / AWS CLI |
+| [Webの問い合わせフォームからの送信を受け付けて複数の処理を並列に実行するAWSサーバーレスバックエンドの構築](architectures/serverless_contact_backend.md) | Lambda / SNS / Parameter Store / API Gateway / AWS CDK / CloudFormation / DynamoDB / SendGrid / TypeScript / Node.js |
 
 ## 利用したことのある技術一覧
 
